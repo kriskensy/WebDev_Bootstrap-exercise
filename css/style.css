@@ -8,6 +8,11 @@
      object-fit: cover;
 }
 
+.card {
+  width: 100%;
+  height: 300px;
+}
+
 .card img {
   width: 100%;
   height: 300px;
@@ -15,6 +20,12 @@
      object-fit: cover;
 }
 
-/*section Highlights*/
+/*products-section*/
+/*highlights-section*/
+/*shop-section*/
+.shop-section .card {
+  width: 100%;
+  height: 180px;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7QUNDSjs7QURDQTtFQUNJLFlBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0FDRUo7O0FEQUE7RUFDSSxXQUFBO0VBQ0EsYUFBQTtFQUNBLG9CQUFBO0tBQUEsaUJBQUE7QUNHSjs7QUREQSxxQkFBQSIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7QUNDSjs7QURDQTtFQUNJLFlBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0FDRUo7O0FEQUE7RUFDSSxXQUFBO0VBQ0EsYUFBQTtBQ0dKOztBRERBO0VBQ0ksV0FBQTtFQUNBLGFBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0FDSUo7O0FERkEsbUJBQUE7QUFFQSxxQkFBQTtBQUVBLGVBQUE7QUFDQTtFQUNJLFdBQUE7RUFDQSxhQUFBO0FDR0oiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
