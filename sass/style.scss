@@ -44,10 +44,10 @@ $color-nine: #2a2a2e;
 }
 /*contact-section*/
 .contact-section{
-    background-color: $color-nine;
+    background-color: $color-eight;
 }
 .contact-section .card{
-    background-color: $color-nine;
+    background-color: $color-eight;
     color: $color-one;
     border: none;
 }
@@ -69,4 +69,9 @@ $color-nine: #2a2a2e;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
+/*footer*/
+.page-footer{
+    background-color: $color-nine;
+    color: $color-one;
 }
